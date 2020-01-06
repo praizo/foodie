@@ -154,14 +154,7 @@ class Orders
 			return $items;
 		} 
 
-
-
 	}
-
-
-	
-
-
 
 }
 
